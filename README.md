@@ -1,6 +1,4 @@
 # Criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel
-Aqui está um modelo de **README.md** que você pode usar para documentar seu projeto no GitHub. Ele segue boas práticas de clareza, organização e instruções de reprodução:
-
 ---
 
 # 📊 Dashboard de Vendas - Xbox Game Pass
