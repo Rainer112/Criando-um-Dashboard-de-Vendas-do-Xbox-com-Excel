@@ -41,11 +41,11 @@ Essas análises permitem identificar:
 - A relevância dos benefícios extras (EA Play e Minecraft).  
 
 ## 🚀 Como Reproduzir
-1. Baixe os arquivos `base.xlsx` e `dashboard_xbox_finalizado.xlsx`.  
+1. Baixe o arquivo `Dashboard_Vendas_Xbox`.  
 2. Abra o Excel (ou outro software compatível).  
 3. Explore a aba de **Dashboard** para visualizar os gráficos e métricas.  
 4. Caso queira refazer o processo:
-   - Utilize a base de dados (`base.xlsx`).  
+   - Utilize a base de dados (`bases.xlsx`).  
    - Crie tabelas dinâmicas e gráficos.  
    - Estruture o dashboard conforme o modelo finalizado.  
 
