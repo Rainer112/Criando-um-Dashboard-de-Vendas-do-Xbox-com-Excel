@@ -1,7 +1,7 @@
 # Criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel
----
+<br>
 
-# 📊 Dashboard de Vendas - Xbox Game Pass
+## 📊 Dashboard de Vendas - Xbox Game Pass
 
 ## 📌 Descrição
 Este projeto tem como objetivo ensinar a criar um **dashboard de vendas no Excel**, com foco na **organização e visualização de dados**.  
